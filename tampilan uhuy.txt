@@ -456,15 +456,15 @@
       ></amp-img>
       
       <!-- Button utama -->
-      <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button" class="btn-login glow-on-hover">  LOGIN</a>
-      <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar glow-on-hover">  DAFTAR </a>
+      <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button" class="btn-login glow-on-hover">  LOGIN</a>
+      <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar glow-on-hover">  DAFTAR </a>
       <div class="button-grid">
-        <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button">  SLOT</a>
-        <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button">  CASINO</a>
-        <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button">  SBOBET</a>
-        <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button">  TOGEL</a>
-        <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button">  POKER</a>
-        <a href="https://yakale.me/loginvtr" target="_blank" rel="noreferrer noopener" role="button">  BONUS</a>
+        <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button">  SLOT</a>
+        <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button">  CASINO</a>
+        <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button">  SBOBET</a>
+        <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button">  TOGEL</a>
+        <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button">  POKER</a>
+        <a href="https://linkly.link/2F9LL" target="_blank" rel="noreferrer noopener" role="button">  BONUS</a>
       </div>
     
       <div style="background: linear-gradient(135deg, rgba(227,24,55,0.08), rgba(255,215,0,0.05)); padding: 10px; border-radius: 10px; margin-top: 10px; text-align: center; border: 1px solid rgba(255,215,0,0.2);">
