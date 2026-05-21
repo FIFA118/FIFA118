@@ -426,7 +426,7 @@
           <amp-img 
             id="image" 
             class="animated tada infinite slower" 
-            src="https://raw.githubusercontent.com/FIFA118/FIFA118/main/rocket-icon-template-illustration-vector.jpg" 
+            src="https://raw.githubusercontent.com/FIFA118/FIFA118/main/Screenshot%202026-05-21%20155054%20copy.png" 
             alt="Logo FIFA118" 
             width="225" 
             height="65" 
