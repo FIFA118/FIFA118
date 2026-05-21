@@ -447,7 +447,7 @@
       </div>
       
       <amp-img 
-        src="https://raw.githubusercontent.com/Image May 21, 2026, 02_43_30 PM/main/banner.png" 
+        src="https://raw.githubusercontent.com/FIFA118/FIFA118/main/Image%20May%2021,%202026,%2002_43_30%20PM.png" 
         width="400" 
         height="400" 
         layout="responsive" 
