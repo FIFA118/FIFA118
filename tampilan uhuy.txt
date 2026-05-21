@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>FIFA118 | Gaskan Ketua Login Situs Toto & Bandar Togel Online Terapik 2026</title>
     <meta name="description" content="FIFA118 adalah platform terpercaya untuk bermain dan menikmati berbagai permainan online. Dengan proses login yang mudah dan cepat, Anda dapat segera mengakses semua fitur menarik yang kami tawarkan. Daftar sekarang dan nikmati pengalaman bermain yang seru dan menguntungkan." />
-    <link href="https://rocket-icon-template-illustration-vector.jpg" rel="icon" type="image/x-icon" />
-    <link rel="canonical" href="https://olxtoto.win" />
-    <link rel="alternate" href="https://olxtoto.win" hreflang="id" />
-    <meta property="og:url" content="https://olxtoto.win" />
+    <link href="https://photoku.io/images/2025/12/15/fav-neww.png" rel="icon" type="image/x-icon" />
+    <link rel="canonical" href="https://linkly.link/2F9LL" />
+    <link rel="alternate" href="https://linkly.link/2F9LL" hreflang="id" />
+    <meta property="og:url" content="https://linkly.link/2F9LL" />
     <meta property="og:site_name" content="FIFA118" />
     <meta property="og:image:alt" content="FIFA118 | Gaskan Ketua Login Situs Toto & Bandar Togel Online Terapik 2026" />
-    <meta property="og:image" content="https://imgstore.io/images/2026/05/20/kaelthass.png" />
+    <meta property="og:image" content="https://Image May 21, 2026, 02_43_30 PM.png" />
     <meta property="og:title" content="FIFA118 | Gaskan Ketua Login Situs Toto & Bandar Togel Online Terapik 2026" />
     <meta property="og:description" content="FIFA118 adalah platform terpercaya untuk bermain dan menikmati berbagai permainan online. Dengan proses login yang mudah dan cepat, Anda dapat segera mengakses semua fitur menarik yang kami tawarkan. Daftar sekarang dan nikmati pengalaman bermain yang seru dan menguntungkan." />
     <meta name="theme-color" content="#e31837" />
@@ -24,7 +24,7 @@
       "@type": "Organization",
       "name": "FIFA118",
       "alternateName": "FIFA118 | Gaskan Ketua Login Situs Toto & Bandar Togel Online Terapik 2026",
-      "url": "https://olxtoto.win",
+      "url": "https://linkly.link/2F9LL",
       "logo": "https://photoku.io/images/2025/12/15/fav-neww.png",
       "description": "FIFA118 adalah platform terpercaya untuk bermain dan menikmati berbagai permainan online. Dengan proses login yang mudah dan cepat, Anda dapat segera mengakses semua fitur menarik yang kami tawarkan. Daftar sekarang dan nikmati pengalaman bermain yang seru dan menguntungkan.",
       "sameAs": [
@@ -447,7 +447,7 @@
       </div>
       
       <amp-img 
-        src="https://imgstore.io/images/2026/05/20/kaelthass.png" 
+        src="https://Image May 21, 2026, 02_43_30 PM.png" 
         width="400" 
         height="400" 
         layout="responsive" 
