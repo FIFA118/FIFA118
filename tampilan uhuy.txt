@@ -25,7 +25,7 @@
       "name": "FIFA118",
       "alternateName": "FIFA118 | Gaskan Ketua Login Situs Toto & Bandar Togel Online Terapik 2026",
       "url": "https://linkly.link/2F9LL",
-      "logo": "WWWWWWWWWWWWW",
+      "logo": "https://raw.githubusercontent.com/FIFA118/FIFA118/main/rocket-icon-template-illustration-vector.jpg",
       "description": "FIFA118 adalah platform terpercaya untuk bermain dan menikmati berbagai permainan online. Dengan proses login yang mudah dan cepat, Anda dapat segera mengakses semua fitur menarik yang kami tawarkan. Daftar sekarang dan nikmati pengalaman bermain yang seru dan menguntungkan.",
       "sameAs": [
         "https://t.me/FIFA118",
